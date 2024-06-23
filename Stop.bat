@@ -1,2 +1,2 @@
-cmd /c "server\Stop_Server.bat"
-cmd /c "client\Stop_Client.bat"
+cmd /c "!Stop_Server.bat"
+cmd /c "!Stop_Client.bat"
