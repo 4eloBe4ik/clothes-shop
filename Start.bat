@@ -1,6 +1,6 @@
-cd "client" 
-npm start
-cd..
 cd "server" 
 npm run dev
+cd..
+cd "client" 
+npm start
 pause
